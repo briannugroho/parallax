@@ -19,3 +19,15 @@
 .footer{
     background-image: url("10.jpg");
 }
+.cta{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+.title{
+    font-family: fantasy;
+    color: white;
+    font-size: 4em;
+    letter-spacing: 20px;
+}
